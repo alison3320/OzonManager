@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "notes": "修复了已知问题并优化了性能",
   "platforms": {
     "windows-x86_64": {
