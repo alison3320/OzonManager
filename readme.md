@@ -14,7 +14,6 @@
 
 <p align="center">
   <img width="800" height="1063" alt="ScreenShot_2026-02-03_214342_673" src="https://github.com/user-attachments/assets/8b97715f-6dfd-45d3-8e79-9cd08310c808" />
-  <img width="800" height="1255" alt="ScreenShot_2026-02-03_231142_976" src="https://github.com/user-attachments/assets/e6d0a773-a614-405d-9b40-1dc3d0845960" />
 </p>
 
 ---
