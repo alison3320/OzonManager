@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "notes": "修复了已知问题并优化了性能",
   "pub_date": "2026-02-03T14:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFlLOUxzUmVKTjFuNThGblhtd09MbXBCWkkzTHpoRyt4UzEzbURCWUx3S2lHekdSa3dBSXZ6M2pEYWNPeFo2ak9wWXR0d1hxeC9wOWRvTklsUlBaRFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjE4MjA2CWZpbGU6T3pvbk1hbmFnZXJfMS4xLjdfeDY0LXNldHVwLmV4ZQpPMGN0WUQ0SjE0TXhJaFZXRTQ5UThDSWtVZitIVEg4SnVoYnhYVlo5QXpNTHluNDdPN2MySjZhL3VGTWFQT1RKTGJuUjkyV0kvd2VpbCthOHVOUmxBZz09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v1.1.7/OzonManager_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFFVbS96aSsvN3lacDdGWnhhdWhDSGkxdGtlQ3kwZldPZjdaTXp4MCtzVUtlNkZ4S3ZCZzhudWF6QXB4eFdhRzI2TTExK3ZtaDZPOTA2cTBsQjlBNHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjY1NTkyCWZpbGU6T3pvbk1hbmFnZXJfMS4xLjhfeDY0LXNldHVwLmV4ZQpLamNxNXFqMXNweis0UjlGNEoyb1k4cEk2L2YzT1NOemtnbUVPQzRPQ2ZIVU9Yek5reURKR2QyL3RzWDFRcURKb0puYkRFSGJCODlmZVhQQWs5NHlDdz09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v1.1.8/OzonManager_1.1.8_x64-setup.exe"
     }
   }
 }
