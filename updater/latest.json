@@ -1,15 +1,15 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "notes": "修复了已知问题并优化了性能",
   "pub_date": "2026-02-09T14:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGZKY0hPbEcwR3JyNkxPM1dFOGMwSWZhaG1aV1RoVUF6b3krYm43eGNmWk1hSUF5cG9MWlhoMWtGNWtjVlZuSCtWNi9UUzZ3ZklvTlRBYVMvMUJ3T2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQ1NTExCWZpbGU6T3pvbk1hbmFnZXJfMS4yLjFfeDY0LXNldHVwLmV4ZQpBb2dnM1dxQUFGMGs1anRaMWFSb0ZibDlxUkwvZVZ1Rks4YTd0N2hUSStaLzNlN05HUG1hNUhyVDFCeFFTcjE5Zk1WbC9qZXlvWFFwMXN3SmdQNm5EZz09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v1.2.1/OzonManager_1.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVQRmZHc2c4cTZKWCttSVJTcWt2YWRlbkVUU0RlZ2p3WjlFTjhxb2hTMW1uOE42Z3dlZXkzcExPUnZiM09SSHBhcmRkNmVHRGlZSkswZHBtRWhyVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzk5NjY1CWZpbGU6T3pvbk1hbmFnZXJfMS4yLjJfeDY0LXNldHVwLmV4ZQpmaUZNc0Y2VDBiVWF3Wm9yR0hCVEpVa05LU3FYbEtEUG1uemlmYkEzSERuaytRRHo4cUNSQ2tUMjE3emhSNkpXY25aT3JWYVI3RUhVR2VPSmg1R0NCUT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v1.2.2/OzonManager_1.2.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGJwcGJxSlArc0F4VXo0SWVjVXRma2V3dThhV3FwNjZjdElDSE5pbkZPb3FmdXlZUjBMZHlDbnNEMmdCUEo2ZXEwQWRobkVZSFRDUFR2UmdUNCtiU1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQ1MDA1CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negppWG9ud2JjMEJTRTFFeGUwcDd3bkxpU3JvTHJRRlBwTU5SaGNkTFhxRCtjNkNBRmtFTnlFTWJUdzVGeUhjQmZXT1QyUkhsNXJHWjFqMlVlLzB2ZDRDUT09Cg==",
-      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.1/OzonManager_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVQRmZHc2c4cTZKWCttSVJTcWt2YWRlbkVUU0RlZ2p3WjlFTjhxb2hTMW1uOE42Z3dlZXkzcExPUnZiM09SSHBhcmRkNmVHRGlZSkswZHBtRWhyVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzk5NjY1CWZpbGU6T3pvbk1hbmFnZXJfMS4yLjJfeDY0LXNldHVwLmV4ZQpmaUZNc0Y2VDBiVWF3Wm9yR0hCVEpVa05LU3FYbEtEUG1uemlmYkEzSERuaytRRHo4cUNSQ2tUMjE3emhSNkpXY25aT3JWYVI3RUhVR2VPSmg1R0NCUT09Cg==",
+      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.2/OzonManager_aarch64.dmg"
     }
   }
 }
