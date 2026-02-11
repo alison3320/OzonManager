@@ -6,6 +6,7 @@
   [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
   [![License](https://img.shields.io/badge/License-MIT-orange.svg)]()
 
+
 **Ozon Manager** 是一款专为 Ozon 卖家设计的桌面端高效运营工具。它通过直观的 UI 界面，将复杂的后台数据转化为清晰的财务看板和一键式操作流程。
 
 ---
@@ -13,9 +14,11 @@
 ## ✨ 界面预览
 
 <p align="center">
-  <img width="800" height="1063" alt="ScreenShot_2026-02-03_214342_673" src="https://github.com/user-attachments/assets/8b97715f-6dfd-45d3-8e79-9cd08310c808" />
+  <img width="1904" height="1120" alt="ScreenShot_2026-02-03_214342_673" src="https://github.com/user-attachments/assets/8b97715f-6dfd-45d3-8e79-9cd08310c808" />
 </p>
-
+<p align="center">
+  <img width="1904" height="1120" alt="ScreenShot_2026-02-11_165524_217" src="https://github.com/user-attachments/assets/1bc64883-f4bc-4677-8e89-a800e0bce565" />
+</p>
 ---
 
 ## 🛠️ 核心功能预览
