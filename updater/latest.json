@@ -7,9 +7,13 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVjcEE4VVI0RFZFSTcyR3AyRllnMVJCWWhLRmtadzhjWGo2VmxaQzRFWUNHMTF0U0ZIWFpOZ2hWZU03SWRRakhXT21McnhpVUtBZFRCc3gyRmNVc3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODMwNjY4CWZpbGU6T3pvbk1hbmFnZXJfMS4yLjNfeDY0LXNldHVwLmV4ZQo1TnF1Y1M2QWVEMmVaTVdiclJFdW0wTy9rZ3l0WEsrQ2NDUFlIVGcxN1NPTk1naTFDQmtiakxGTmZ0RWJlSWZRZm1ESzFMaGJrd0hHVDZ1RjdpL2ZCZz09Cg==",
       "url": "https://github.com/alison3320/OzonManager/releases/download/v1.2.3/OzonManager_1.2.3_x64-setup.exe"
     },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVQRmZHc2c4cTZKWCttSVJTcWt2YWRlbkVUU0RlZ2p3WjlFTjhxb2hTMW1uOE42Z3dlZXkzcExPUnZiM09SSHBhcmRkNmVHRGlZSkswZHBtRWhyVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzk5NjY1CWZpbGU6T3pvbk1hbmFnZXJfMS4yLjJfeDY0LXNldHVwLmV4ZQpmaUZNc0Y2VDBiVWF3Wm9yR0hCVEpVa05LU3FYbEtEUG1uemlmYkEzSERuaytRRHo4cUNSQ2tUMjE3emhSNkpXY25aT3JWYVI3RUhVR2VPSmg1R0NCUT09Cg==",
-      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.3/OzonManager_aarch64.dmg"
+     "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFd1T1pJeWVWOVVyN2ZwRGJnTzhlQkNSOUZSbG1ySms0cXlaSmhrQkYzcGdZUlROOG83QU1FQXMvdEhHVjZueWZFUXJFaE1mSjBsOFNxeGwrMUlDU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODMwOTIwCWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4STQyMXJ5THUzbjNXNUhtQUZGY3RjTTVkRmlwcURGTE9RZ09IUXVJcnlyQzc0SDFlYmhnZUNtWmNndHVwOGs5aHdLUnlWaHZBelFVSjVmaExvMEJCQT09Cg==",
+      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.3/OzonManager_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFd1T1pJeWVWOVVyN2ZwRGJnTzhlQkNSOUZSbG1ySms0cXlaSmhrQkYzcGdZUlROOG83QU1FQXMvdEhHVjZueWZFUXJFaE1mSjBsOFNxeGwrMUlDU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODMwOTIwCWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4STQyMXJ5THUzbjNXNUhtQUZGY3RjTTVkRmlwcURGTE9RZ09IUXVJcnlyQzc0SDFlYmhnZUNtWmNndHVwOGs5aHdLUnlWaHZBelFVSjVmaExvMEJCQT09Cg==",
+      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.3/OzonManager_aarch64.app.tar.gz"
     }
   }
 }
