@@ -20,7 +20,7 @@
   <img width="1599" height="1063" alt="ScreenShot_2026-02-11_165839_460" src="https://github.com/user-attachments/assets/0e12de14-31ea-40a8-b9f3-00bb052d7f43" />
 </p>
 <p align="center">
-  <img width="1904" height="1120" alt="ScreenShot_2026-02-11_165524_217" src="https://github.com/user-attachments/assets/1bc64883-f4bc-4677-8e89-a800e0bce565" />
+  <img width="1599" height="1649" alt="ScreenShot_2026-02-15_162541_521" src="https://github.com/user-attachments/assets/61f0636b-c52d-4ddd-9ce5-d34b67bf25e3" />
 </p>
 
 ---
