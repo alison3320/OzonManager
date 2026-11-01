@@ -1,20 +1,15 @@
 {
-  "version": "1.2.5",
-  "notes": "修复了已知问题并优化了性能",
-  "pub_date": "2026-02-15T14:00:00Z",
+  "version": "2.2.0",
+  "notes": "新增多店汇总、利润核算、采购管理、内容评分模块；自动定价策略与刊登工作台；多项体验优化",
+  "pub_date": "2026-11-01T01:54:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGR3MDhaZ1lYWmlvYnZQc2lId0VuZWEzQmZrVlpIZDlRRUVXL1BkQzAvaFNHL3owSFdLYlV6QXJzd3kvQm52cjVpY1RpQ2RqOFpVRnpEKy9VZmtaa3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTQzNTAwCWZpbGU6T3pvbk1hbmFnZXJfMS4yLjVfeDY0LXNldHVwLmV4ZQpWQ0ltM29XS3UxYlNvdUNPQ3hrNWRlMmpwTnhQaUlxK2R4QU53OFUxWjZONHlPUnh2cWZ0VnBncXQxS0lxK1owMXhHVEVPb0hNSU5rQm1IMXQyTDNEQT09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v1.2.5/OzonManager_1.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGJqWStoK3REcGVCMnFMUlpBcUp3RHFJYnFKWkFqYVNQQmlaMXh5S0tsaEZQUjdMYUpOZ1RxeXJHb0RjeWJvVnlEV25Jak9lczdVZUVLbnZkQUFOalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3Nzg3CWZpbGU6T3pvbk1hbmFnZXJfMi4yLjBfeDY0LXNldHVwLmV4ZQpJS3plditSVkUxT0FjeWpDUWlaeWtrTi9DTjMvYllrZUpxK0ltTmZYb3g3Q3ZaNXo3TzAwUmp6YmlTNzdNMVJIUCtmcU85KzNWcUJrSTN1eHNnVzREUT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.0/OzonManager_2.2.0_x64-setup.exe"
     },
-     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFd1T1pJeWVWOVVyN2ZwRGJnTzhlQkNSOUZSbG1ySms0cXlaSmhrQkYzcGdZUlROOG83QU1FQXMvdEhHVjZueWZFUXJFaE1mSjBsOFNxeGwrMUlDU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODMwOTIwCWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4STQyMXJ5THUzbjNXNUhtQUZGY3RjTTVkRmlwcURGTE9RZ09IUXVJcnlyQzc0SDFlYmhnZUNtWmNndHVwOGs5aHdLUnlWaHZBelFVSjVmaExvMEJCQT09Cg==",
-      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.3/OzonManager_aarch64.app.tar.gz"
-    },
-    "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFd1T1pJeWVWOVVyN2ZwRGJnTzhlQkNSOUZSbG1ySms0cXlaSmhrQkYzcGdZUlROOG83QU1FQXMvdEhHVjZueWZFUXJFaE1mSjBsOFNxeGwrMUlDU0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODMwOTIwCWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4STQyMXJ5THUzbjNXNUhtQUZGY3RjTTVkRmlwcURGTE9RZ09IUXVJcnlyQzc0SDFlYmhnZUNtWmNndHVwOGs5aHdLUnlWaHZBelFVSjVmaExvMEJCQT09Cg==",
-      "url": "https://github.com/alison3320/ozonTool/releases/download/v1.2.3/OzonManager_aarch64.app.tar.gz"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFZnb2Vmc2ZVNW45a1g0bk1iL2pkWWVIWlpBaDNXOWd1dTZGWFhCbW1leTAvN0JrWFNvbDVlRWhhdGhUUzRoOFlBVGk5VFhFRHg3R0JUT1g1bUhRYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3MDk5CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negplM1lCUDF1VmdzNnhGVlN4WHY3RzQ2c1Q3Y0plRmZqeWNSTXJrYzNSRzExb1NnbGpuWXR6YWJ5VVg0NlZVMVRQbEwrY0VMZ0xuc2lkc1RrYzVjVmRDUT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.0/OzonManager.app.tar.gz"
     }
   }
 }
-
