@@ -1,15 +1,15 @@
 {
-  "version": "2.2.0",
-  "notes": "新增多店汇总、利润核算、采购管理、内容评分模块；自动定价策略与刊登工作台；多项体验优化",
-  "pub_date": "2026-11-01T01:54:50Z",
+  "version": "2.2.1",
+  "notes": "修复多店汇总门店数据拉取失败与分析接口限流；修复冷启动首次切换菜单卡顿；修复内容质量面板样式",
+  "pub_date": "2026-11-01T04:46:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGJqWStoK3REcGVCMnFMUlpBcUp3RHFJYnFKWkFqYVNQQmlaMXh5S0tsaEZQUjdMYUpOZ1RxeXJHb0RjeWJvVnlEV25Jak9lczdVZUVLbnZkQUFOalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3Nzg3CWZpbGU6T3pvbk1hbmFnZXJfMi4yLjBfeDY0LXNldHVwLmV4ZQpJS3plditSVkUxT0FjeWpDUWlaeWtrTi9DTjMvYllrZUpxK0ltTmZYb3g3Q3ZaNXo3TzAwUmp6YmlTNzdNMVJIUCtmcU85KzNWcUJrSTN1eHNnVzREUT09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.0/OzonManager_2.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFRRdFRDRURLcTczWFRCRDQzWW82NG5mcHpEUEpMQmdrODR4bk1hdlJSaDN5bktKS3hXQ2V0MHBncVdoOUNpRnpWNFNtdys5dHRnOFFhNG4ybnMrdlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA3MjAwCWZpbGU6T3pvbk1hbmFnZXJfMi4yLjFfeDY0LXNldHVwLmV4ZQoyVWF5c00vckp1aEtoUkFYS293S1FqdkNzUDMxbEFFRE1qTkNjQUhOc1Z5c2Nyd2lLUS9FVy95cTdjclFiUy9zNXJtVmsxM0hBY1Fiai9QWGY0cURDdz09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_2.2.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFZnb2Vmc2ZVNW45a1g0bk1iL2pkWWVIWlpBaDNXOWd1dTZGWFhCbW1leTAvN0JrWFNvbDVlRWhhdGhUUzRoOFlBVGk5VFhFRHg3R0JUT1g1bUhRYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDk3MDk5CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negplM1lCUDF1VmdzNnhGVlN4WHY3RzQ2c1Q3Y0plRmZqeWNSTXJrYzNSRzExb1NnbGpuWXR6YWJ5VVg0NlZVMVRQbEwrY0VMZ0xuc2lkc1RrYzVjVmRDUT09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.0/OzonManager.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVBeGZyei9CaDdCeDVQbzNxUHV6YjBvQ1ZudFIwcDZocFNiOEpuQ2d5ZGhGQkxZRkNoWmcza0hteVlFdDdBdDc1cE43MHY2WFJnMndUSVdEdW00Tnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA2MTM0CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negpvK1lGWTdlTUVsZzNtRkRERm9kcHlhRmg4Qldidm94a2M4UCttSXFHc2xwVnRMSitaTmMvM2RiZTBkNGRnT0RhUko5YTNxZE14bHR1MGl4SWdydFVEdz09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager.app.tar.gz"
     }
   }
 }
