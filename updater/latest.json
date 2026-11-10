@@ -1,15 +1,27 @@
 {
   "version": "2.2.1",
-  "notes": "修复多店汇总门店数据拉取失败与分析接口限流；修复冷启动首次切换菜单卡顿；修复内容质量面板样式",
-  "pub_date": "2026-11-01T04:46:23Z",
+  "notes": "See the assets below to download.",
+  "pub_date": "2026-11-10T03:11:13.704Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFRRdFRDRURLcTczWFRCRDQzWW82NG5mcHpEUEpMQmdrODR4bk1hdlJSaDN5bktKS3hXQ2V0MHBncVdoOUNpRnpWNFNtdys5dHRnOFFhNG4ybnMrdlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA3MjAwCWZpbGU6T3pvbk1hbmFnZXJfMi4yLjFfeDY0LXNldHVwLmV4ZQoyVWF5c00vckp1aEtoUkFYS293S1FqdkNzUDMxbEFFRE1qTkNjQUhOc1Z5c2Nyd2lLUS9FVy95cTdjclFiUy9zNXJtVmsxM0hBY1Fiai9QWGY0cURDdz09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_2.2.1_x64-setup.exe"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVBeGZyei9CaDdCeDVQbzNxUHV6YjBvQ1ZudFIwcDZocFNiOEpuQ2d5ZGhGQkxZRkNoWmcza0hteVlFdDdBdDc1cE43MHY2WFJnMndUSVdEdW00Tnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA2MTM0CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negpvK1lGWTdlTUVsZzNtRkRERm9kcHlhRmg4Qldidm94a2M4UCttSXFHc2xwVnRMSitaTmMvM2RiZTBkNGRnT0RhUko5YTNxZE14bHR1MGl4SWdydFVEdz09Cg==",
-      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFo4WTduZTFvTkNMZDZtajZSNkE0cml6QVFBbjZHUmdmWTJZMlNwODI1STRUWTdKbEJQVlVaRmJqNGg2NlJoUHFLQldGKzdlTDFSS05nSXg0Sm5xT0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5MDI4CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4TmZDTWdDZ2NKSGlmeXRWS2VCeW03U3RjcGNETUJvTWVCOC9tbDNxRmRJdy9TVkNhYWdiRjdhK0ZpYXhTU21FMDRKN2JRNkJJdlQxQU5PNHNkbDJEUT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFo4WTduZTFvTkNMZDZtajZSNkE0cml6QVFBbjZHUmdmWTJZMlNwODI1STRUWTdKbEJQVlVaRmJqNGg2NlJoUHFLQldGKzdlTDFSS05nSXg0Sm5xT0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5MDI4CWZpbGU6T3pvbk1hbmFnZXIuYXBwLnRhci5negp4TmZDTWdDZ2NKSGlmeXRWS2VCeW03U3RjcGNETUJvTWVCOC9tbDNxRmRJdy9TVkNhYWdiRjdhK0ZpYXhTU21FMDRKN2JRNkJJdlQxQU5PNHNkbDJEUT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVzY3R1V0V5UHlsNEhoSDhEeHMwVXNseGExL25oN3YxT2NrbEduODRzS3FnUU5kVEZlLy9mVWxPc1BUZ3F5SFp1dG94bXd4R2g1L1lldVRTL2tjS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwMjY4CWZpbGU6T3pvbk1hbmFnZXJfMi4yLjFfeDY0X2VuLVVTLm1zaQpoV3Q5eWFUbVU4eHlITjVpZWQzcldRNlNCd1BpK3UzcVVLaUF0eVZHRmZLN00rZm1JeXFiWlBVd0kvck1EV2FDUGFZNjVsNFJtbFJ4dzRxK3lNckhDQT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_2.2.1_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOFVzY3R1V0V5UHlsNEhoSDhEeHMwVXNseGExL25oN3YxT2NrbEduODRzS3FnUU5kVEZlLy9mVWxPc1BUZ3F5SFp1dG94bXd4R2g1L1lldVRTL2tjS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwMjY4CWZpbGU6T3pvbk1hbmFnZXJfMi4yLjFfeDY0X2VuLVVTLm1zaQpoV3Q5eWFUbVU4eHlITjVpZWQzcldRNlNCd1BpK3UzcVVLaUF0eVZHRmZLN00rZm1JeXFiWlBVd0kvck1EV2FDUGFZNjVsNFJtbFJ4dzRxK3lNckhDQT09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_2.2.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1NlUCtPOGxIOGNZMHFrRnlRNEZIdHZvTjJ0enRDUllTYUFyQUw4aDRlSnhTbWxwOVpFZDhqOUxFQnpwWmhZS3pQaHZFa0swczVMY1NjcmpUQnB3MFViVjdDNkZKaFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwMjY4CWZpbGU6T3pvbk1hbmFnZXJfMi4yLjFfeDY0LXNldHVwLmV4ZQplRUtUeGxDVW1NUTY2VWs5UmJBN1VOeHFtUVI1eTd0SDNPYms3bFJQZ3pZdEVKdjhzejBWd1hTZEpEbFlBOUFDbm94Q0xNeGgwYkFoNDVqWVRuUUlEdz09Cg==",
+      "url": "https://github.com/alison3320/OzonManager/releases/download/v2.2.1/OzonManager_2.2.1_x64-setup.exe"
     }
   }
 }
